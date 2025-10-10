@@ -1,7 +1,7 @@
-# Nasa Picture Of the Day SITE: [Visit Here](https://nasaappkunal.netlify.app/)
+# Nasa Picture Of the Day SITE: [Visit Here](https://silly-puffpuff-ec5b14.netlify.app/)
 
 <img src="./img/sitegif.gif" width="100%" /> <br>
-The simple site allows you to get the Nasa picture/video of the day as well as get the picture/video from any date picked. The site uses Nasa APOD API to achieve that. It also stores your previous searched date data in your browser's local storage. You can check out the site [here](https://nasaappkunal.netlify.app/). Go ahead, input your date of birth XD — unless you were born before June 1995, well then you are older than the API allows :p
+The simple site allows you to get the Nasa picture/video of the day as well as get the picture/video from any date picked. The site uses Nasa APOD API to achieve that. It also stores your previous searched date data in your browser's local storage. You can check out the site [here](https://silly-puffpuff-ec5b14.netlify.app/). Go ahead, input your date of birth XD — unless you were born before June 1995, well then you are older than the API allows :p
 
 ### Purpose:
 
